@@ -1,0 +1,7 @@
+name: EDragon
+author: bmlzootown
+version: 0.4.2
+main: ml.bmlzootown.EDragon
+commands:
+    edragon:
+        description: placeholder
